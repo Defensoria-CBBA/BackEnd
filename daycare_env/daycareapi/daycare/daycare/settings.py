@@ -79,7 +79,7 @@ DATABASES = {
     # MySQL engine. Powered by the mysqlclient module.
     'ENGINE': 'django.db.backends.mysql',
     'NAME': 'guarderiadb',
-    'USER': 'root',
+    'USER': 'admin',
     'PASSWORD': '#BolivianosElHadoPropicio-6bs?2bs_250bs',
     'HOST': 'database-guarderia.c6i1umydgul8.sa-east-1.rds.amazonaws.com',
     'PORT': '3306',
